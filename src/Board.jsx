@@ -5,7 +5,7 @@ import rcUtil from 'rc-util';
 
 const colr = new Colr();
 
-const WIDTH = 200;
+const WIDTH = 239;
 const HEIGHT = 150;
 
 export default class Board extends React.Component {
